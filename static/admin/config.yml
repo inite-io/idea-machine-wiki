@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: inite-io/idea-machine-wiki
+  branch: master
+  squash_merges: true
+  base_url: https://wiki.inite.io
+  auth_endpoint: api/auth
+
+publish_mode: editorial_workflow
+media_folder: "static/img"
+public_folder: "img"
+site_url: https://wiki.inite.io
+logo_url: https://wiki.inite.io/img/inite-logo.png
+collections:
+  - name: "enter-metaverse"
+    label: "Enter Inite"
+    folder: "docs/enter-metaverse"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "docs/enter-metaverse/{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+          hint: "The description of the post which will be used by search engines and link previews. If not present, will default to the first line of the post contents.",
+        }
+      - {
+          label: "Cover Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          hint: "Cover or thumbnail image that will be used when displaying the link to the post.",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "how-does-it-work"
+    label: "How Does It Work"
+    folder: "docs/how-does-it-work"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "docs/how-does-it-work/{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+          hint: "The description of the post which will be used by search engines and link previews. If not present, will default to the first line of the post contents.",
+        }
+      - {
+          label: "Cover Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          hint: "Cover or thumbnail image that will be used when displaying the link to the post.",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "articles"
+    label: "Articles"
+    folder: "docs/articles"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "docs/articles/{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+          hint: "The description of the post which will be used by search engines and link previews. If not present, will default to the first line of the post contents.",
+        }
+      - {
+          label: "Cover Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          hint: "Cover or thumbnail image that will be used when displaying the link to the post.",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
