@@ -1,5 +1,5 @@
 ---
-title: 🔭 The Inite Game 
+title: 🔭 The Inite Game
 image: /img/inite-logo-purple.png
 ---
 
@@ -10,4 +10,4 @@ Inite is a blockchain game based on a new type of economical and gaming activity
 
 The main task for every Inite player is the daily creation of 10 ideas and tracking their implementation. Inite players form an active community and discuss gaming activity. The best ideas get support from gaming clans and are tokenized in the form of NFTs.
 
-Every user has their own player character and can upgrade it by creating ideas. Сompetition between characters and joint raids on bosses is a part of the gaming process. The Inite game combines innovative gamification of the idea creation process and old-school gaming mechanics familiar from the times of Might & Magic Heroes. 
+Every user has their own player character and can upgrade it by creating ideas. Сompetition between characters and joint raids on bosses is a part of the gaming process. The Inite game combines innovative gamification of the idea creation process and old-school gaming mechanics familiar from the times of Might & Magic Heroes.. 
