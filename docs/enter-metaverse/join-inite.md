@@ -1,21 +1,8 @@
 ---
-title: 👽 How to Earn with Inite
+title: 👽 The Inite Game
 ---
-# How to Earn with Inite
+Inite is a blockchain game based on a new type of economical and gaming activity. It combines GameFi and Play to Earn on one hand, and the world of ideas backed by NFTs and DAOs on the other. United on the Inite platform, these concepts form a new type of economy based on virtual assets and ideas: ideanomics.   
 
-There are several methods of monetization for Inite users. Firstly, every user gets rewards for completing their daily idea creation task. 
+The main task for every Inite player is the daily creation of 10 ideas and tracking their implementation. Inite players form an active community and discuss gaming activity. The best ideas get support from gaming clans and are tokenized in the form of NFTs.
 
-Users also get rewards for:
-
-- getting support for their ideas from other users 
-- selling ideas on the NFT marketplace
-- getting new weapons and equipment as prizes and selling them in the market
-- beating a boss
-- winning a battle
-
-Inite is a DeFi platform, so users can enable staking mechanics and farm INIT and IDEA tokens.
-
-There are also special types of additional in-game activities: 
-
-joining in sponsored challenges. Users get prizes for generating ideas on specific topics. 
-special referral program for attracting new users to the Inite platform 
+Every user has their own player character and can upgrade it by creating ideas. Сompetition between characters and joint raids on bosses is a part of the gaming process. The Inite game combines innovative gamification of the idea creation process and old-school gaming mechanics familiar from the times of Might & Magic Heroes.
