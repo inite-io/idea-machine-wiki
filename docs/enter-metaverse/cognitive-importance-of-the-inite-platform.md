@@ -1,5 +1,6 @@
 ---
 title: Cognitive Importance of the Inite Platform
+image: img/origin.10.png
 ---
 <!--StartFragment-->
 
