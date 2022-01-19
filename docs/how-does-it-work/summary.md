@@ -48,3 +48,4 @@ This type of activity and common ownership and promotion of ideas encourages pla
 - NFT marketplace - the ability to sell and buy ideas.
 - Shop - the opportunity to buy equipment for IDEA tokens will open soon.
 - Bosses - the opportunity to call friends will open soon and hunt bosses for especially valuable rewards and a chance to knock out INIT tokens.
+.
