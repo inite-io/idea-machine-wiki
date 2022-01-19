@@ -1,5 +1,6 @@
 ---
 title: "How Does Inite Work? "
+image: img/origin.17.jpg
 ---
 <!--StartFragment-->
 
