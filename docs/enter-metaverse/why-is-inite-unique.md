@@ -1,5 +1,6 @@
 ---
 title: Why is Inite Unique?
+image: img/origin.9.jpg
 ---
 Inite is a unique project that combines gaming and intellectual activities, as well as an educational and social component. Inite promotes the trend for games to be both interesting and useful, and a new type of economy tied to this - ideanomics.
 
