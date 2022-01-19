@@ -13,7 +13,7 @@ site_url: https://wiki.inite.io
 logo_url: https://wiki.inite.io/img/inite-logo.png
 collections:
   - name: "enter-metaverse"
-    label: "Enter Inite"
+    label: "Introduction to Inite"
     folder: "docs/enter-metaverse"
     create: true
     slug: "{{slug}}"
@@ -38,7 +38,7 @@ collections:
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "how-does-it-work"
-    label: "How Does It Work"
+    label: "Inite Gaming Mechanics"
     folder: "docs/how-does-it-work"
     create: true
     slug: "{{slug}}"
@@ -63,7 +63,7 @@ collections:
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "articles"
-    label: "Articles"
+    label: "Ideanomics"
     folder: "docs/articles"
     create: true
     slug: "{{slug}}"
@@ -87,3 +87,28 @@ collections:
           hint: "Cover or thumbnail image that will be used when displaying the link to the post.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "more"
+      label: "More Information about Inite"
+      folder: "docs/more"
+      create: true
+      slug: "{{slug}}"
+      preview_path: "docs/more/{{slug}}"
+      editor:
+        preview: false
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+          hint: "The description of the post which will be used by search engines and link previews. If not present, will default to the first line of the post contents.",
+        }
+        - {
+          label: "Cover Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          hint: "Cover or thumbnail image that will be used when displaying the link to the post.",
+        }
+        - { label: "Body", name: "body", widget: "markdown" }

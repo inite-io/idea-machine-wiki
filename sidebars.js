@@ -1,14 +1,17 @@
 module.exports = {
   someSidebar: {
     "🌀 Inite": ["home"],
-    "🤨 Articles": [
+    "🗺 Introduction to Inite": [
+      "enter-metaverse/join-inite",
+    ],
+    "🤨 Ideanomics": [
       "articles/inite-game",
     ],
-    "🧐 FAQ": [
+    "🧐 Inite Gaming Mechanics": [
       "how-does-it-work/summary",
     ],
-    "🗺 Enter Inite": [
-      "enter-metaverse/join-inite",
+    "More Information about Inite": [
+      "more/more",
     ],
   },
 };
