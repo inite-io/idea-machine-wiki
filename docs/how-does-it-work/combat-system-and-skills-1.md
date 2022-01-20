@@ -1,6 +1,8 @@
 ---
 title: Combat System and Skills
 ---
+<!--StartFragment-->
+
 ## Damage
 
 As in all games, Inite interprets game damage, when a player receives it, a notification about the loss of health points (HP) appears in the upper right corner of the interface. As soon as HP reaches 0, the player dies.
@@ -35,7 +37,6 @@ The game implements the mechanics of replenishing your health, which will help i
 Vampirism items or skills help restore health.
 The player also has gems, which are mostly needed for in-game purchases, and the player can also spend on a couple of side effects:
 
-
 * **Strengthening Elixir**
   *Cost:* 4 Gems
   *Effect:* Resets the state of all the player's goals.
@@ -44,7 +45,6 @@ The player also has gems, which are mostly needed for in-game purchases, and the
   *Effect:* Resets most of the player's progress.
 
 ## Skills
-
 
 Each character has 7 characteristics
 
@@ -63,3 +63,5 @@ At the beginning of the game, each indicator is equal to 5 points, and players a
 From EQ - Depends on the amount of maximum health of the character
 From SQ - Depends on the amount of maximum possible accumulated mana from the character (Increasing the player's level completely restores not only health, but also mana)
 Efficiency in boss battles depends on PQ, dexterity, luck, charisma and IQ
+
+<!--EndFragment-->
