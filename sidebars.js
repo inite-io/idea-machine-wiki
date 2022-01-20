@@ -23,7 +23,7 @@ module.exports = {
       "how-does-it-work/clan-system",
       "how-does-it-work/combat-system-and-skills",
     ],
-    "More Information about Inite": [
+    "🤔 More Information about Inite": [
       "more/more",
       "more/key-audience",
     ],
