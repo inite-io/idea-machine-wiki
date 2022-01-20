@@ -11,8 +11,9 @@ As in all games, Inite interprets game damage, when a player receives it, a noti
 
 Players can take damage from several sources:
 
-* Boss attack. An attack occurs every time a player or his team members fail to complete at least one of the daily tasks when updating the crown. (Kron is a term that means a scheduled repeatable event. The crohn's cycle lasts 24 hours. All players start a new day at midnight according to their time zone.)
-* Also, a small amount of damage is inflicted for not completing a daily task before the launch of the crown. (There are two variants of events: Either the boss will attack you, which will entail a greater amount of damage received, or you will simply receive minor damage)
+* Boss attack. An attack occurs every time a player or his team members fail to complete at least one of the daily tasks when updating the cron. (Cron is a term that means a scheduled repeatable event. The cron cycle lasts 24 hours. All players start a new day at midnight according to their time zone.)
+* Also, a small amount of damage is inflicted for not completing a daily task before the launch of the cron. (There are two variants of events: Either the boss will attack you, which will entail a greater amount of damage received, or you will simply receive minor damage)
+*
 
 Damage is calculated from several factors, including the complexity and value of the task, as well as the physique of the player.
 
