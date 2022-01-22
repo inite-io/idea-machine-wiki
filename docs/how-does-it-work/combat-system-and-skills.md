@@ -43,7 +43,7 @@ Each character has 4 characteristics
 
 * PQ - Physical Intelligence (Impact Strength)
 * IQ - Intelligence Quotient, increases skill strength
-* EQ - Emotional Intelligence
+* EQ - Emotional Intelligence, emotional stability of the character, helps in the battle with bosses
 * SQ - Spiritual Intelligence
 
 At the beginning of the game, each indicator is equal to 5 points, and players are also given 10 more points for their own distribution between indicators to personalize their character.
