@@ -7,7 +7,7 @@ title: Combat System and Skills
 
 As in all games, Inite interprets game damage, when a player receives it, a notification about the loss of health points (HP) appears in the upper right corner of the interface. As soon as HP reaches 0, the player dies.
 
-![](img/6ttpcaausom.jpg)
+![](/static/img/6ttpcaausom.jpg)
 
 Players can take damage from several sources:
 
@@ -55,7 +55,7 @@ Each character has 4 characteristics
 
 At the beginning of the game, each indicator is equal to 5 points, and players are also given 10 more points for their own distribution between indicators to personalize their character.
 
-![](img/mul5nsa3o2m.jpg)
+![](/static/img/mul5nsa3o2m.jpg)
 
 From **EQ** - Depends on the amount of **maximum health** of the character
 From **SQ** - Depends on the amount of **maximum** possible accumulated **mana** from the character (Increasing the player's level completely **restores not only health, but also mana**)
