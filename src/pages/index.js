@@ -208,16 +208,6 @@ function Home() {
                 >
                   EXPLORE
                 </Link>
-                <Link
-                  className={classnames(
-                    'button button--primary button--lg button--join',
-                    styles.button,
-                    styles.btnJoin
-                  )}
-                  to={useBaseUrl('https://inite-ai.typeform.com/to/TBUGQ9kf?utm_source=home')}
-                >
-                  JOIN
-                </Link>
               </div>
             </div>
           </main>
