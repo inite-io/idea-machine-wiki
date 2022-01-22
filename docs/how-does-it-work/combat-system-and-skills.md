@@ -50,7 +50,7 @@ At the beginning of the game, each indicator is equal to 5 points, and players a
 
 ![](/img/mul5nsa3o2m.jpg)
 
-From **EQ** -Affects the amount of  **maximum health**  of the character, i.e. the more points you have distributed on EQ, the more HP you have
+From **EQ** -Affects the amount of  **maximum health** of the character, i.e. the more points you have distributed on EQ, the more HP you have
 From **SQ** - Affects the amount of **maximum** possible accumulated  **mana** in a character (raising the player's level completely  **restores not only health, but also mana**)
 Effectiveness in boss battles depends on **PQ and IQ**
 
