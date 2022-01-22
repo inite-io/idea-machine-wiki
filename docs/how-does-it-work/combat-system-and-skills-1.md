@@ -35,16 +35,9 @@ The game implements the mechanics of replenishing your health, which will help i
 * Character level-up (Fully regenerates health)
 
 Vampirism items or skills help restore health.
-The player also has tokens, which are mostly needed for in-game purchases, and the player can also spend on a couple of side effects:
+The player also has tokens, which are mostly needed for in-game purchases, and the player can also spend them on a couple of side effects to temporarily improve the character's skills/abilities.
 
-* **Strengthening Elixir**
-  *Cost:* 4 Tokens
-  *Effect:* Resets the state of all the player's goals.
-* **The Ball of Abstinence**
-  *Cost:* 8 Tokens
-  *Effect:* Resets most of the player's progress.
-
-## Skills
+## Characteristic
 
 Each character has 4 characteristics
 
