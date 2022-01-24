@@ -2,6 +2,7 @@
 title: 🔭 The Inite Game
 ---
 ![](/img/inite-logo-purple.png)
+
 *The Inite Game* 
 
 Inite is a blockchain game based on a new type of economical and gaming activity. It combines GameFi and Play to Earn on one hand, and the world of ideas backed by NFTs and DAOs on the other. United on the Inite platform, these concepts form a new type of economy based on virtual assets and ideas - ideanomics.   

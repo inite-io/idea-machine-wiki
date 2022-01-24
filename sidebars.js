@@ -1,6 +1,5 @@
 module.exports = {
   someSidebar: {
-    "🌀 Inite": ["home"],
     "🗺 Introduction to Inite": [
       "enter-metaverse/🔭-the-inite-game",
       "enter-metaverse/how-does-inite-work-1",

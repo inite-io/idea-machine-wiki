@@ -201,10 +201,10 @@ function Home() {
               <div className={styles.buttons}>
                 <Link
                   className={classnames(
-                    'button button--primary button--lg button--explore',
+                    'button button--primary button--lg button--explore explore_src-pages-',
                     styles.button
                   )}
-                  to={useBaseUrl('docs/')}
+                  to={useBaseUrl('docs/enter-metaverse/🔭-the-inite-game')}
                 >
                   EXPLORE
                 </Link>

@@ -13,4 +13,5 @@ Andrei has over 14 years’ experience in Information Technology. He developed h
 <!--EndFragment-->
 
 ![](/img/inite-logo-purple.png)
+
 *The Inite Game*
