@@ -14,7 +14,7 @@ Subscriptions on the Inite platform are charged monthly. These services give use
 5. Clan creation
 6. Upgrade characteristics twice a day
 
-
+![](img/45.jpg)
 
 The platform also takes fees for some types of economic activity on the platform:
 
@@ -24,5 +24,18 @@ The platform also takes fees for some types of economic activity on the platform
 4. Sales of NPCs
 5. Creation of a clan
 6. AI idea generation  
+
+### Tokenomics
+
+\
+The Inite platform has 2 tokens, INIT and IDEA, both built on NEAR Protocol.
+
+INIT is a governance token. It’s available for staking and can be obtained in challenges. The number of tokens in circulation changes all the time and depends on players’ activity.  
+
+IDEA is an internal gaming currency used to buy premium functions and equipment, and for users to reward each other for social activities like writing comments, idea reviews, idea sharing and getting likes for an idea. The player can spend Inite for premium items, access to AI idea generator and another gaming features.
+
+There is a program for minting and burning these tokens, covered later. 
+
+
 
 <!--EndFragment-->
