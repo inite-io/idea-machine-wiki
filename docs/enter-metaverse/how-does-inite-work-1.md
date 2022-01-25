@@ -1,5 +1,5 @@
 ---
-title: "How Does Inite Work? "
+title: Delete3
 image: img/origin.17.jpg
 ---
 <!--StartFragment-->
