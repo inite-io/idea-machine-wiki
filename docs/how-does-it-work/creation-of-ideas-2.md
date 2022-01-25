@@ -1,5 +1,5 @@
 ---
-title: Creation of Ideas
+title: Delete2
 ---
 <!--StartFragment-->
 
