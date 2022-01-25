@@ -5,11 +5,11 @@ title: Quests and Challenges on the Inite Platform
 
 To make progress in the game, pump up their characters and receive rewards, players perform two types of in-game tasks: challenges and quests.
 
-
-
 ### Challenges
 
 Challenges are special tasks. Some are available for all types of players, while others have experience, health and level requirements. Other challenges are available to users with sufficient fame on the platform (amount of likes) or are special tasks for the clan.
+
+![](img/origin.5.jpg)
 
 There are currently three types of challenges:
 
@@ -25,16 +25,14 @@ Most challenges are related to idea creation tasks in which every participating 
 
 Clans and guilds can launch group tasks for their members like supporting clan ideas, writing reviews, joining a poll or voting for clan members. The challenge creator can close entry at any time and appoint the winner in accordance with the previously announced rules. The Inite team can mediate in cases of non-compliance with the challenge’s terms by the challenge creator. In the future, it will be possible to create a special community court to resolve such issues. 
 
-
-
 ### Quests
 
 There are two main types of quests: collection quests and boss quests. To damage a boss or make an essential action the user needs to make a positive click during the playing day. To start a quest, a player must join or create a clan: players can invite clan members to quests, or try them alone if the clan has only one member. The creation of ideas, acquiring good habits and performing challenges also influence quest progress. 
 
+![](img/undraw_docusaurus_mountain.svg)
+
 Completing quests is one of the constant goals for clans, as completion brings rewards in the form of experience points and items distributed among quest participants. To start a quest, the player should choose it in the “List of Quests”, which displays all available quests of different types and their rewards. 
 
 Some quests are available for free, but most cost INIT or IDEA tokens.To purchase quests, the player must go to the Quest Shop, in the ”Inventory” menu. Some quests are only available after a player or clan has reached certain game milestones or levels.
-
-
 
 <!--EndFragment-->
