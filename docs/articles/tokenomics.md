@@ -1,5 +1,5 @@
 ---
-title: Tokenomics
+title: Delete (added to another article)
 ---
 <!--StartFragment-->
 The Inite platform has 2 tokens, INIT and IDEA, both built on NEAR Protocol.
