@@ -9,6 +9,10 @@ User will earn experience and tokens for each “like” of the idea, and will a
 
 Clans will implement and patent ideas, and idea authors will make money. Eventually this ecosystem will result in all members of the overall Inite DAO getting their share of every idea in the Inite community. DAO members can also help each other come up with and implement new ideas, as well as teach each other useful skills.
 
-The leader in the group can use the boss summoning scroll and the group will embark on a boss hunt, during which time you can communicate in the group and discuss the implementation of the idea and available resources. 
+The group leader uses a boss summoning scroll and the group embarks on a boss hunt, during which time members can communicate in the group and discuss the implementation of the idea and available resources.  Clan members can invite other players to join. There are no limits on character class or player level to join the clan with an invitation. Clans can consist of up to 30 members. 
+
+The player who starts the clan is awarded the position of group leader and can manage the clan, inviting and removing members, changing clan’s name and description, or transfering leadership. For interaction and discussion between clan members, each clan has a chat room - very helpful for quests, boss hunts and in-game challenges.
+
+
 
 <!--EndFragment-->
