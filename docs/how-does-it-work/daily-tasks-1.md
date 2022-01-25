@@ -1,9 +1,10 @@
 ---
-title: Daily Tasks
+title: In the Beginning
+image: ""
 ---
-<!--StartFragment-->
-
 The player’s main purpose is to come up with a variety of ideas every day and track the progress of their implementation by discussing those ideas and forming a community around them. To earn rewards, players develop their character by generating ideas and putting them in a table. Random rewards for completing idea lists help to equip their character, and the chat room gives the opportunity to discuss cooperation between players and choose the best ideas.
+
+![](img/origin.3.jpg)
 
 Rewards encourage users to create new ideas and buy better gear, and also to spend tokens on gear improvements to kill stronger bosses to get even better gear. The player’s avatar competes with other characters, improves his or her skills and buys equipment such as weapons, spells, and armor.
 
@@ -16,6 +17,8 @@ The order of the user's actions within the system is as follows:
 * User joins in a boss hunt with other players
 * Equipment and support of teammates help users to get more rewards and win
 
+
+
 Important elements of the game’s mechanics for the user are:
 
 1. Experience - the higher the level, the more income and opportunities
@@ -27,4 +30,10 @@ Important elements of the game’s mechanics for the user are:
 7. Shop - to buy equipment for IDEA tokens (opening soon)
 8. Bosses - the opportunity to call friends and hunt bosses for especially valuable rewards and a chance of INIT tokens (coming soon)
 
-<!--EndFragment-->
+The whole game for the user begins with filling out a list of ideas. For each idea, the user receives their first reward in the form of experience points and IDEA tokens and, by completing the sheet, receives their first character level increase.  
+
+![](img/origin.3.jpg)
+
+The first reward can be used to buy equipment, and the points received after leveling up can be used to increase basic characteristics: Physical Intelligence (PQ), Intelligence Quotient (IQ), Emotional Intelligence (EQ) and Spiritual Intelligence (SQ). The user can now enter challenges, join a clan and participate in quests and boss hunts.
+
+Rewarding ideas prompts players to create new ideas and buy even better equipment, as well as spend tokens to improve existing equipment to kill stronger bosses and get even better equipment.
