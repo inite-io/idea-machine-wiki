@@ -1,5 +1,5 @@
 ---
-title: "How to Come up with an Idea "
+title: Delete
 ---
 <!--StartFragment-->
 
