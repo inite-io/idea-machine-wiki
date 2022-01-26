@@ -1,5 +1,5 @@
 ---
-title: 🔭 Inite Team
+title: Inite Team
 image: /img/inite-logo-purple.png
 ---
 The platform was founded by Mike Fluff and Andrei Ivanouski in 2021 as a reaction to the growth of the GameFi sector. Their purpose was to launch a truly new, innovative type of blockchain game, and promote social progress.
