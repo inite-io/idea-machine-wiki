@@ -204,7 +204,7 @@ function Home() {
                     'button button--primary button--lg button--explore explore_src-pages-',
                     styles.button
                   )}
-                  to={useBaseUrl('docs/enter-metaverse/🔭-the-inite-game')}
+                  to={useBaseUrl('docs/enter-metaverse/the-inite-game')}
                 >
                   EXPLORE
                 </Link>

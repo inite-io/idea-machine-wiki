@@ -5,7 +5,7 @@ title: Monetization of the Inite Platform
 
 The Inite platform must attract investment to support ideanomics. The primary sources of these funds are subscriptions for additional gaming features and fees from in-game features. 
 
-![](img/45.jpg)
+![](/img/45.jpg)
 
 Subscriptions on the Inite platform are charged monthly. These services give users additional opportunities, such as:
 
@@ -31,7 +31,6 @@ The platform also takes fees for some types of economic activity on the platform
 
 ### Tokenomics
 
-\
 The Inite platform has 2 tokens, INIT and IDEA, and both built on NEAR Protocol.
 
 INIT is a governance token. It’s available for staking and can be obtained in challenges. The number of tokens in circulation changes and depends on players’ activity. 

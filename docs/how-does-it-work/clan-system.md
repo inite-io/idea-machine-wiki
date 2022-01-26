@@ -1,7 +1,7 @@
 ---
 title: Clan System
 ---
-![](img/4e56qz.jpg)
+![](/img/4e56qz.jpg)
 
 Decentralization and Web3 as a service are important parts of the current blockchain revolution. DAOs allow users to unite in groups and govern assets together. Inite users will have this ability in the game - to create and join clans (in the form of DAOs) based on their values and area(s) of interest.
 

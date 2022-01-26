@@ -7,7 +7,7 @@ title: "Ideas on Inite Platform "
 
 Every Inite platform user can issue and attribute their ideas to NFTs. The idea is fixed on the blockchain together with the date of its origin. This way, every Inite user can prove ownership and guarantee that their ideas will not be stolen. At the first stage of the Inite platform development, an idea is simply a text description, which can be uploaded into the blockchain and tokenized in the form of an NFT. We are working on implementing new mechanics - new forms of NFTs, audio, video, and the ability to use AI for idea creation, including speech recognition.
 
-![](img/origin.10.png)
+![](/img/origin.10.png)
 
 The platform stimulates user activity to capture all possible (and impossible) ideas. Any user can create ideas, issue an NFT and sell it on Inite’s NFT marketplace. The sales mechanics are similar to Rarible or OpenSea trades. The idea creator gets their share from reselling.
 
@@ -21,7 +21,7 @@ First of all, it is essential to create ideas without thinking about whether the
 
 Inite’s gameplay design and the development of cognitive abilities requires players to set themselves targets for time and the number of ideas, which points their creative energy in the right direction.
 
-![](img/search.svg)
+![](/img/search.svg)
 
 If we come up with simple ideas and solutions for rearranging the living room, for example, then at the very beginning, we only need to write out the existing 20-30 popular options. Then we can add the rarer and more complex variants of these layouts. Finally, opportunities for these layouts with some unusual solutions/details and then different original ideas that come to mind based on combining these options. In fixing ideas, it is essential to write down all options without rejecting them.
 
