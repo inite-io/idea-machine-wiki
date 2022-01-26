@@ -1,5 +1,5 @@
 ---
-title: Key Audience
+title: Delete
 ---
 The audience of the Inite project can be divided into several segments. We see our users as bright minds with many ideas, who love to fix things. And, of course, experienced crypto users. So our primary demographic is brilliant minds under 35 years old, who are already active in crypto.
 
