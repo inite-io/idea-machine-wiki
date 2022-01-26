@@ -10,6 +10,7 @@ module.exports = {
     ],
     "Inite Gaming Mechanics": [
       "how-does-it-work/daily-tasks-1",
+      "how-does-it-work/classes-and-skills",
       "how-does-it-work/types-of-idea-challenges-on-the-inite-platform",
       "how-does-it-work/clan-system",
       "how-does-it-work/types-of-ideas-on-the-inite-platform",
