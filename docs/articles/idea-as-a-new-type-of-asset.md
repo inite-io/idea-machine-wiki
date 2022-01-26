@@ -5,7 +5,7 @@ The main opportunity that the Inite team wants to give our users is in the sloga
 
 Inite puts ideas where they should be: first in people’s lives. The real value that stays in our lives comes from ideas. Fiat money today has growing inflation and hasn’t a clear equivalent, that has a real value. Moreover, most “desirable” materials and resources have little worth because they are easily available. And ideas have more than simple value: they are currency, as Inite demonstrates by tokenizing ideas in the form of NFTs and giving people the ability to exchange and monetize their inventions.
 
-![](img/origin.4.jpg)
+![](/img/origin.4.jpg)
 
 Of course, we must not forget that everything in crypto is based on ideas, too. The ideas of freedom and decentralization, popular among the cypherpunks, inspired the invention of blockchain. We can’t even begin to guess how many ideas patented on the Inite platform will be implemented in - and profoundly change - the real world. 
 
@@ -19,7 +19,7 @@ Despite the best efforts of copyright specialists, it is becoming increasingly d
 
 Inite is a gaming tool that can help users boost their creativity and cognitive skills by creating and documenting new ideas building positive habits at the same time. This is all the more relevant today, when the clichéd mindset and fast pace of modern life negatively affect IQ and cognitive abilities. 
 
-![](img/origin.2.png)
+![](/img/origin.2.png)
 
 Inite also helps address the ongoing lack of money and poverty for developing countries. The “play to earn” model gives anyone with an internet connection the opportunity to earn cryptocurrency and generate a sustainable source of income. Blockchain games can help in the fight against poverty, and Inite financially stimulates users to perform useful actions for their personal development.
 
@@ -29,7 +29,7 @@ Inite also helps address the ongoing lack of money and poverty for developing co
 
 There are several monetization methods for Inite users. Firstly, every user gets rewards for completing their daily idea creation task. 
 
-![](img/снимок-экрана-2022-01-26-093534.jpg)
+![](/img/снимок-экрана-2022-01-26-093534.jpg)
 
 Users also get rewards for:
 
