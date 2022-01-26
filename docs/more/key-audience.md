@@ -1,9 +1,9 @@
 ---
 title: Key Audience
 ---
-<!--StartFragment-->
+The audience of the Inite project can be divided into several segments. We see our users as bright minds with many ideas, who love to fix things. And, of course, experienced crypto users. So our primary demographic is brilliant minds under 35 years old, who are already active in crypto.
 
-The audience of the Inite project can be divided into several segments. We see our users as bright minds with a lot of ideas, who love to fix things. And, of course, experienced crypto users. So our primary demographic is bright minds under 35 years old, who are already active in crypto.
+
 
 However, we believe Inite will attract a wider audience, appealing to: 
 
@@ -11,5 +11,3 @@ However, we believe Inite will attract a wider audience, appealing to: 
 * GameFi hunters - people who like a referral system, prizes, DeFi farming and airdrops from the platform
 * Fighters - gamers who like to win battles, develop their character and earn rewards 
 * Collectors - investors who like to collect in-game items and ideas in the form of NFTs for later sale
-
-<!--EndFragment-->
