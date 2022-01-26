@@ -31,7 +31,7 @@ Clans and guilds can launch group tasks for their members like supporting clan i
 
 There are two main types of quests: collection quests and boss quests. To damage a boss or make an essential action the user needs to make a positive click during the playing day. To start a quest, a player must join or create a clan: players can invite clan members to quests, or try them alone if the clan has only one member. Creating ideas, acquiring good habits and performing challenges also influence quest progress. 
 
-![](img/undraw_docusaurus_tree.svg)
+![](/img/undraw_docusaurus_tree.svg)
 
 Completing quests is one of the constant goals for clans, as completion brings rewards in the form of experience points and items distributed among quest participants. To start a quest, the player should choose it in the “List of Quests”, which displays all available quests of different types and their rewards. 
 
