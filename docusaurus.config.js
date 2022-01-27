@@ -25,6 +25,7 @@ module.exports = {
       logo: {
         alt: "Inite Logo",
         src: "img/inite-logo.png",
+        href: "/docs/enter-metaverse/the-inite-game"
       },
     },
   },
@@ -52,6 +53,10 @@ module.exports = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
+          {
+            to: '/docs/enter-metaverse/the-inite-game', // string
+            from: ['/'], // string | string[]
+          },
         ],
       },
     ],
