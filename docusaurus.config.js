@@ -53,10 +53,6 @@ module.exports = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {
-            to: '/docs/enter-metaverse/the-inite-game', // string
-            from: ['/'], // string | string[]
-          },
         ],
       },
     ],
