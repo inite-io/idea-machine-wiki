@@ -52,10 +52,6 @@ module.exports = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {
-            to: '/docs/', // string
-            from: ['/docs/home/'], // string | string[]
-          },
         ],
       },
     ],
