@@ -1,10 +1,8 @@
 ---
 title: The Inite Game
-image: img/origin.17.jpg
+image: /img/origin.17.jpg
 ---
 <!--StartFragment-->
-
-## The Inite Game 
 
 Inite is a blockchain game based on a new type of economical and gaming activity. It combines innovative gamification of the idea creation process and old-school gaming mechanics familiar from the times of Might & Magic Heroes.
 
