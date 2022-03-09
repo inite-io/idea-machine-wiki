@@ -24,7 +24,7 @@ module.exports = {
       title: "Inite Wiki",
       logo: {
         alt: "Inite Logo",
-        src: "img/inite-logo.png",
+        src: "img/inite-logo-text.svg",
         href: "/docs/enter-metaverse/the-inite-game"
       },
     },
