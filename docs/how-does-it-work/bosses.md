@@ -7,7 +7,7 @@ Damage to the boss depends on many parameters. Physical intelligence (PQ) affect
 
 Damage to the boss is calculated and dealt with in Cron. One of the main Cron functions is to cause damage to the player for any scheduled tasks that they did not complete. If the player is taking part in a Boss Quest, Cron will also cause the boss to do additional damage to the player and do that same amount of damage to all other players in the quest.  
 
-![](img/undraw_docusaurus_react.svg)
+![](/img/undraw_docusaurus_react.svg)
 
 Fighting with bosses makes the game more challenging because of multiplying damage. Even players in the Inn can take damage from other clan members participating in the fight, thus increasing motivation.\
 \
