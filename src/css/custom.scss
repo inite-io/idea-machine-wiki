@@ -603,6 +603,25 @@ h1, h2, h3, h4, h5, h6 {
             transition: all 0.2s ease-in-out, max-width 0.3s 0.2s ease-in-out;
             z-index: 200;
             height: 40px;
+            @media (max-width: 767px) {
+                width: 40px !important;
+
+                &:focus {
+                    width: 130px !important;
+                    max-width: 130px !important;
+                    transition: 0.3s;
+                    border-color: #656E85;
+                }
+            }
+            @media (min-width: 768px) {
+                width: 300px !important;
+                border-color: #656E85;
+
+                &:focus {
+                    width: 300px !important;
+                    max-width: 300px !important;
+                }
+            }
             &::-webkit-search-decoration,
             &::-webkit-search-cancel-button,
             &::-webkit-search-results-button,
@@ -611,25 +630,11 @@ h1, h2, h3, h4, h5, h6 {
             }
 
             &:focus {
-                outline: none;
-                width: 130px;
-                max-width: 130px;
-                transition: 0.3s;
-                border-color: #656E85;
+                outline: none !important;
             }
 
             &::placeholder {
                 color: #A5B7DC;
-            }
-
-            @media (min-width: 768px) {
-                width: 300px;
-                border-color: #656E85;
-
-                &:focus {
-                    width: 300px;
-                    max-width: 300px;
-                }
             }
         }
 
@@ -728,28 +733,6 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgba(255, 255, 255, 0.02);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     border-radius: 6px;
-
-    // &:focus {
-    //   max-width: 160px;
-    // }
-    .search-bar {
-        width: 300px;
-        max-width: 20px;
-
-        &:hover,
-        &:focus {
-            max-width: 130px;
-        }
-
-        @media (min-width: 760px) {
-            max-width: 105px;
-
-            &:hover,
-            &:focus {
-                max-width: 300px;
-            }
-        }
-    }
 
     .ds-dropdown-menu {
         background-color: rgba(255, 255, 255, 0.02);
