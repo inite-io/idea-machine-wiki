@@ -1,6 +1,5 @@
 ---
 title: Classes and Skills
-image: ""
 ---
 The class system in the game is based on four key players characteristics: Physical Intelligence (PQ), intelligence Quotient (IQ), Emotional Intelligence (EQ) and Spiritual Intelligence (SQ). 
 
@@ -14,7 +13,7 @@ Example: class "Healer", magic - "general treatment" (heals a group for 10 + 10 
 
 <!--EndFragment-->
 
-![](img/image-22.png)
+![](/img/image-22.png)
 
 Physical Intelligence (PQ) affects critical hits and boss damage. Players of any class can increase PQ by using armor and weapons or spending stat points. It’s the primary characteristic for warriors and secondary for rogues.  
 

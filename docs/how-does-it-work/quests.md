@@ -22,7 +22,7 @@ The boss appears on the sidebar of the team, with a health bar. Completing quest
 
 A boss quest started at the end of the day will still grant damage to the boss for dailies completed before the quest started. If any quest member misses their dailies, the boss can deal damage to all quest participants. The amount of damage is based on the number and value of unfulfilled dailies, as well as the strength of the boss. This damage will even apply to members who are resting in an inn or who have already died before.
 
-![](img/undraw_docusaurus_tree.svg)
+![](/img/undraw_docusaurus_tree.svg)
 
 **Collecting quests**
 
