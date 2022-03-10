@@ -59,7 +59,7 @@ body,
         padding: 0;
         margin-top: -48px;
         padding-top: 48px;
-        position: relative; // added for pseudo-element
+        position: relative; // added for pseudo-elemen
 
         // Fixed-position background image
         &::before {
@@ -74,10 +74,40 @@ body,
             will-change: transform; // creates a new paint layer
             z-index: -1;
         }
+        
+        &::after {
+            position: fixed;
+            width: 340px;
+            height: 340px;
+            top: 200px;
+            left: -200px;
+            background: url('/img/buble-bg-img.png') no-repeat center center;
+            background-size: contain;
+            transform: rotate(72.36deg);
+            opacity: 0.7;
+            will-change: transform;
+            z-index: -1;
+            animation: bubble 40s linear infinite;
+        }
+
+        @keyframes bubble {
+            0% {
+                transform: rotate(0deg) rotateY(0);
+            }
+            100% {
+                transform: rotate(1turn) rotateY(0);
+            }
+        }
 
         @media screen and (min-width: 768px) {
+            background: url('/img/bg-blur-image.png') no-repeat top center;
+            background-repeat: no-repeat;
+            background-size: contain;
             margin-top: -72px;
             padding-top: 72px;
+            &::after {
+                content: ' ';
+            }
         }
     }
 }
@@ -311,7 +341,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .main-wrapper [class^='docPage'] {
     @media (min-width: 995px) {
-        backdrop-filter: blur(5px);
+        // backdrop-filter: blur(5px);
         min-height: 100vh;
     }
 
