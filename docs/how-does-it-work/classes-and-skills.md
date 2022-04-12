@@ -9,11 +9,7 @@ Example: class "Warrior", magic - "strike to the skull" (deals x2.5 damage depen
 
 Example: class "Healer", magic - "general treatment" (heals a group for 10 + 10 health points), magic - "general boost" (increases SPECIAL groups by 1 + 10) for the next actions. 
 
-
-
 <!--EndFragment-->
-
-![](/img/image-22.png)
 
 Physical Intelligence (PQ) affects critical hits and boss damage. Players of any class can increase PQ by using armor and weapons or spending stat points. It’s the primary characteristic for warriors and secondary for rogues.  
 
@@ -54,8 +50,6 @@ Primary characteristic: Spiritual Intelligence (SQ)
 Secondary characteristic: Physical Intelligence (PQ)
 
 The Rogue is the best economic unit in the Inite metaverse. He is useful for collection tasks, equipment upgrade and for searching gold and drops. This class also adds spiritual intelligence and physical intelligence to the clan. By the way it has one disadvantage - causing lower damage to bosses.
-
- 
 
 ### Change of the Class
 
